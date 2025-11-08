@@ -1,0 +1,18 @@
+title: EmperorKaiDaGodKing's GitHub Domain
+description: Official GitHub Pages site for EmperorKaiDaGodKing
+author: EmperorKaiDaGodKing
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .git
+  - .github
+
+# Enable GitHub Pages features
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
